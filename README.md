@@ -12,7 +12,7 @@
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c-pink?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c-white?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=white"/></p>
   
 <p><img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;</p>
 
