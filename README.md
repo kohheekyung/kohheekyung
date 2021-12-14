@@ -12,7 +12,7 @@
 <h3>🔥 Tech Stack 🔥</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=#00599C"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-c++-black?style=flat&logo=c%2B%2B&slogoColor=#00599C"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=#007396"/>&nbsp;&nbsp;
 </p>
   
