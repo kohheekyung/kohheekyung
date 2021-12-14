@@ -1,8 +1,7 @@
 <div align="center">
 <h3> 🍀 Heekyung Koh 🍀</h3>
 <p><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! 👋</p>
-<p> My main skills are Python and C++. </p>
+<p>Hi There! 👋 My main skills are Python and C++. </p>
 <p>I'm a persistent person.</p>
   
 #
@@ -13,7 +12,7 @@
 <h3>🔥 Tech Stack 🔥</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++-white?style=flat&logo=C++&logoColor=#00599C"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=#00599C"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=#007396"/>&nbsp;&nbsp;
 </p>
   
