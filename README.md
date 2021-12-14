@@ -2,14 +2,14 @@
 
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-<p><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
-<p> My main skills are HTML, CSS, JavaScript and React.</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
+<p><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p>Hi There! </p>
+<p> My main skills are Python and C++. </p>
+<p>I'm a persistent person. 🥰</p>
   
 #
 <h3>❤️ I love...</h3>
-<p>💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🎮Games</p>
+<p>🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🐈Cat</p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
@@ -24,8 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
 </div>
-
-
 
 
 
