@@ -12,14 +12,23 @@
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/c-white?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=white"/></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-white?style=flat&logo=c++&logoColor=#00599C"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=#007396"/>&nbsp;&nbsp;
+</p>
   
-<p><img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;</p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-white?style=flat&logo=PyTorch&logoColor=#EE4C2C"/>&nbsp;&nbsp;
+</p>
 
-<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
-  
-  
-  
+<p>
+  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
+</p>
+   
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kohheekyung&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohheekyung&layout=compact&theme=tokyonight)
