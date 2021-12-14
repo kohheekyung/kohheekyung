@@ -1,6 +1,6 @@
-### Hi there 👋
 <div align="center">
-<h3>🍀 Me 🍀</h3>
+<h3> 🍀 Heekyung Koh 🍀</h3>
+<p> Hi there, 👋 </p>
 <p><a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 <p>Hi There! </p>
 <p> My main skills are Python and C++. </p>
