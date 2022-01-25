@@ -17,9 +17,8 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
    
-#
-![Heek's github stats](https://github-readme-stats.vercel.app/api?username=kohheekyung&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohheekyung&layout=compact&theme=swift)
-
+![Heek's github stats](https://github-readme-stats.vercel.app/api?username=kohheekyung&show_icons=true&theme=swift) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohheekyung&layout=compact&theme=swift)-->
 <!--
 **kohheekyung/kohheekyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
