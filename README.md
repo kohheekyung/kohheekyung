@@ -1,29 +1,24 @@
-<div align="center">
-<h3>Heekyung Koh </h3>
-<p><a href="https://kohheekyung.notion.site/I-m-Heekyung-Koh-6017618d3fb443258ca90b806ba8d2a0" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+
+<h2>Heekyung Koh </h2> 
+<a href="https://kohheekyung.notion.site/I-m-Heekyung-Koh-6017618d3fb443258ca90b806ba8d2a0" target="_blank"><img src="https://img.shields.io/badge/About Me-FCE5F2?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/%ED%9D%AC%EA%B2%BD-%EA%B3%A0-557545214/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
+ 
+ [kohhokhj@gmail.com](mailto:kohhokhj@gmail.com) | [heekko@kist.re.kr](mailto:heekko@kist.re.kr)
+
+
 <p>Hi There! 👋 I love using deep learning methods to solve challenges in the Computer Vision field. Proficiency in Generative models and Medical image processing. I am a keen learner, team player, and enjoy taking on new challenges.  </p>
+
+<h4 align="left">Main Language and Tools</h4>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank">
   
-#
-<h3> I love... </h3>
-<p>🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🐈All the cats in the world</p>
-  
-#
-<h3>🔥 Tech Stack 🔥</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&s&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=#007396"/>&nbsp;&nbsp;
-</p>
-  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-white?style=flat&logo=PyTorch&logoColor=#EE4C2C"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
    
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kohheekyung&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohheekyung&layout=compact&theme=tokyonight)
-</div>
 
 <!--
 **kohheekyung/kohheekyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
