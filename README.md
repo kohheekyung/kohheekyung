@@ -6,7 +6,7 @@
  [kohhokhj@gmail.com](mailto:kohhokhj@gmail.com) | [heekko@kist.re.kr](mailto:heekko@kist.re.kr)
 
 
-<p>Hi There! 👋 I love using deep learning methods to solve challenges in the Computer Vision field. Proficiency in Generative models and Medical image processing. I am a keen learner, team player, and enjoy taking on new challenges.  </p>
+<p>Hi There! 👋 I love using deep learning methods to solve challenges in the Computer Vision field. Proficiency in Generative models and Medical image processing. I am a keen learner and enjoy taking on new challenges.  </p>
 
 <h4 align="left">Main Language and Tools</h4>
 <p align="left"> 
