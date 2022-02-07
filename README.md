@@ -1,6 +1,6 @@
 
 <h2>Heekyung Koh </h2> 
-<a href="https://kohheekyung.notion.site/I-m-Heekyung-Koh-6017618d3fb443258ca90b806ba8d2a0" target="_blank"><img src="https://img.shields.io/badge/About Me-FCE5F2?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://kohheekyung.notion.site/I-m-Heekyung-Koh-0acfcbe2b5bf4824b4ad73493e80a133" target="_blank"><img src="https://img.shields.io/badge/About Me-FCE5F2?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/%ED%9D%AC%EA%B2%BD-%EA%B3%A0-557545214/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
  
  [kohhokhj@gmail.com](mailto:kohhokhj@gmail.com) | [heekko@kist.re.kr](mailto:heekko@kist.re.kr)
